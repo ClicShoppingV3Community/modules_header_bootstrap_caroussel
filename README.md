@@ -35,6 +35,8 @@ Implementation:
 
 - Copy the modules_header_bootstrap_caroussel.json into ClicShopping/Work/Cache/Github (manual installation)
 
+Marketplace link : https://www.clicshopping.org/forum/files/file/88-modules-header-bootstrap-caroussel/
+
 
  All informations about the ClicShopping
  
