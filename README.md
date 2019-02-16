@@ -40,8 +40,6 @@ Marketplace link : https://www.clicshopping.org/forum/files/file/88-modules-head
 
  All informations about the ClicShopping
  
- Download ClicShopping : https://github.com/ClicShopping/ClicShopping_V3/archive/master.zip
-
  Community : https://www.clicshopping.org
 
  Software : https://github.com/ClicShopping
