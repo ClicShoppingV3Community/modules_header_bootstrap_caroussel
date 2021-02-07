@@ -1,0 +1,2 @@
+module_header_boostrap_caroussel_title = Souhaitez vous afficher une bannières Boostrap Carousel
+module_header_boostrap_caroussel_description = Ajouter une bannière rotative dans l'entete de la boutique
